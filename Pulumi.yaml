@@ -1,0 +1,3 @@
+name: hello-http
+description: Pulumi Hello World
+runtime: nodejs
